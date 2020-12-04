@@ -8,5 +8,3 @@ I'm a Web back-end developer with nodejs, I am interested in Web, which a amazin
 
   - goleer.zhangli@outlook.com
   - https://twitter.com/fecat233
-  - https://iwebapp.me
-  - https://dev.to/fecat233
