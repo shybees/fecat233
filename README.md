@@ -6,5 +6,5 @@ I'm a Web back-end developer with nodejs, I am interested in Web, which a amazin
 - 🛫 I'm currently learning distributed systems with nodejs
 - 📫 How to reach me: 
 
-  - [Email](goleer.zhangli@outlook.com)
+  - [Email](mailto:goleer.zhangli@outlook.com)
   - [twitter](https://twitter.com/fecat233)
