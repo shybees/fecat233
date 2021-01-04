@@ -1,6 +1,6 @@
 ### Hi there 🤓🤓🥝🍇
 
-I'm a Web backend developer with nodejs, I am interested in distributed computing, which a amazing field of computer science 
+I'm a Web developer with JavaScript
 
 - 📫 How to reach me: 
 
