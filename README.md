@@ -1,6 +1,6 @@
 ### Hi there 🤓🤓🥝🍇
 
-I'm a Web developer with JavaScript
+I'm a fullstack JavaScript developer
 
 - 📫 How to reach me: 
 
