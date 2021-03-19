@@ -1,7 +1,8 @@
 ### Hi there 🤓🤓🥝🍇
 我是来自中国大陆的没有考上本科智商有问题的智商不及格
 
-A boy who come from mainland china with low IO
+A coder who comes from mainland china with low IO
+- education: [Wuhan Donghu University](http://www.wdu.edu.cn/)
 - 📫 contact me at: 
 
   - [email](mailto:goleer.zhangli@outlook.com)
