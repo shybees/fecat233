@@ -1,2 +1,2 @@
 ### Hi there 🤓🤓🥝🍇
-foucing on ml and nlp
+focusing on ml and nlp
