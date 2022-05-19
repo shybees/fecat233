@@ -1,2 +1,2 @@
 ### Hi there 🤓🤓🥝🍇
-focusing on ml and nlp
+A developer, working with Python for machine learning
