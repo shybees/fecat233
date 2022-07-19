@@ -1,9 +1,9 @@
 ### Hi there 🤓🤓🥝🍇
-A developer, working with Python for machine learning
+A developer, working with Python for machine learning and nlp
 
 current skills:
 + python
-+ tensorflow
++ pytorch
 
 contact me at:
 + [twitter](https://twitter.com/fecat233)
