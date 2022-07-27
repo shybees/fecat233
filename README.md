@@ -8,5 +8,4 @@ current skills:
 contact me at:
 + [twitter](https://twitter.com/fecat233)
 + [email](goleer.zhangli@outlook.com)
-+ [Posts](https://fecat233.github.io)
 
