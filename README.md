@@ -1,11 +1,11 @@
 ### Hi there 🤓🤓🥝🍇
-A developer, working with Python for machine learning and nlp
+A developer, working with Python
 
-current skills:
+skills:
 + python
++ Flask
 + pytorch
 
 contact me at:
-+ [twitter](https://twitter.com/fecat233)
 + [email](goleer.zhangli@outlook.com)
 
