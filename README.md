@@ -1,5 +1,5 @@
 ### Hi there 🤓🤓🥝🍇
-A developer, working with Python for NLP & Distributed Systems
+A developer, working with Python
 
 skills:
 + python
