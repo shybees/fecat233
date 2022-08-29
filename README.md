@@ -1,5 +1,5 @@
 ### Hi there 🤓🤓🥝🍇
-A developer, working with Python
+A developer, working with Python for ML and NLP
 
 skills:
 + python
