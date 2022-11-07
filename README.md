@@ -4,7 +4,7 @@
     <a href="https://twitter.com/fecat233">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"/>
     </a>
-    <a mailto="https://twitter.com/fecat233">
+    <a href="mailto:https://twitter.com/fecat233">
       <img src="https://img.shields.io/badge/-Email-green" alt="Email Badge" height="25"/>
     </a>
   </div>
@@ -46,5 +46,5 @@
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fecat233&layout=compact" />
-   </a>
+    </a>
   <div/>
