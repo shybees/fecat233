@@ -1,10 +1,7 @@
 ### Hi there 🤓🤓🥝🍇
-A developer, working with Python for ML and NLP
+A developer, working for web
 
-skills:
-+ python
-+ Flask
-+ pytorch
+stack: Reactjs + Nodejs + pytorch + mysql/mongodb/redis
 
 contact me at:
 + [email](goleer.zhangli@outlook.com)
