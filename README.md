@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+   <h1>🤓Hi 🥝🍇 there🤓<h1/>
   <div id="badges">
     <a href="https://twitter.com/fecat233">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"/>
@@ -8,10 +8,6 @@
       <img src="https://img.shields.io/badge/-Email-green" alt="Email Badge" height="25"/>
     </a>
   </div>
-</div>
-<div id="main" align="center">
-  <h1>🤓Hi 🥝🍇 there🤓<h1/>
-  <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
