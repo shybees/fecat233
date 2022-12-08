@@ -12,7 +12,7 @@
 
 ---
 ### :man_technologist: About Me:
-  A developer, building web applications, working for machine learning and NLP
+  A developer, building web applications, working for machine learning and natural language processing
   
    + :hammer_and_wrench: Languages:
     <div>
