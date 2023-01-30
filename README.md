@@ -17,7 +17,6 @@
 ---
 ### :fire: My Stats :
   <div>
-     <a href="https://app.daily.dev/fecat233"><img src="https://api.daily.dev/devcards/0e45a638cd434ca19176ba5d963069ac.png?r=wol" width="400" alt="fecat233⚡⚡'s Dev        Card"/></a>
     <a href="https://git.io/streak-statss">
       <img src="https://streak-stats.demolab.com?user=fecat233&theme=github-light&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j" />
     </a>
