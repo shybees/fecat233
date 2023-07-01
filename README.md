@@ -1,3 +1,3 @@
 ### :man_technologist: About Me:
-  🤓A developer, building web applications🥑🍏
+  🤓Dont want to say anything🥑🍏
   
